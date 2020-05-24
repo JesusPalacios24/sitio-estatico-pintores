@@ -1,0 +1,34 @@
+header{
+    border: solid 1px black;
+    background-color: rgb(240, 166, 82);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+main{
+    border:  solid 1px black;
+    background-color: rgb(202, 47, 99);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+footer{
+    border: solid 1px black;
+    background-color: rgb(205, 228, 2);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.regre{
+    color: black;
+    font-size: 30px;
+}
+h2{
+    font-family: cursive;
+}
+.tex1{
+    font-size: 26px;
+}
+.tex2{
+    text-align: center;
+    font-size: 19px;
+    font-family: sans-serif;
+}

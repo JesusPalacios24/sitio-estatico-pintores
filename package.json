@@ -1,0 +1,14 @@
+{
+  "name": "sitio-web-estatico2-jesuspalacios24",
+  "version": "1.0.0",
+  "description": "un sitio web estatico dedicado a 5 pintores que mas me gsutan y sus obras utilizandoexpress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesus Emanuel Palacios Mendias",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

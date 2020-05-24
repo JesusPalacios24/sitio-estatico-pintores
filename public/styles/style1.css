@@ -1,0 +1,29 @@
+header{
+    border: solid 1px black;
+    background-color: cadetblue;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+main{
+    border:  solid 1px black;
+    background-color: wheat;
+    font-family: cursive;
+    text-align: center;
+}
+footer{
+    border: solid 1px black;
+    background-color: firebrick;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+h3{
+    color: darkblue;
+}
+p{
+    font-size: 18px;
+}
+.lik{
+    color: green;
+    font-family: cursive;
+}

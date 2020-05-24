@@ -1,0 +1,1 @@
+alert('Estas en el menu inicial de la pagina')
